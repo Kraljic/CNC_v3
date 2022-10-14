@@ -1,0 +1,47 @@
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.config
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\bin\Debug\CNC_v3.pdb
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csprojResolveAssemblyReference.cache
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Main.resources
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Properties.Resources.resources
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csproj.GenerateResource.Cache
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe
+c:\users\marko\documents\visual studio 2015\Projects\CNC_v3\CNC_v3\obj\Debug\CNC_v3.pdb
+H:\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.config
+H:\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe
+H:\CNC_v3\CNC_v3\bin\Debug\CNC_v3.pdb
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csprojResolveAssemblyReference.cache
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Main.resources
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Properties.Resources.resources
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csproj.GenerateResource.Cache
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.pdb
+H:\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Print.resources
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.config
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.pdb
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Main.resources
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Print.resources
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Properties.Resources.resources
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csproj.GenerateResource.Cache
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.pdb
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.manifest
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.application
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe.manifest
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.application
+D:\OneDrive\Skola\Zavrsni rad\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csprojResolveAssemblyReference.cache
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.config
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe.manifest
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.application
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.exe
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\bin\Debug\CNC_v3.pdb
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csprojResolveAssemblyReference.cache
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Main.resources
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Forms.Print.resources
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.Properties.Resources.resources
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.csproj.GenerateResource.Cache
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe.manifest
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.application
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.exe
+D:\OneDrive\Skola\_ZAVRSNI_RAD\APLIKACIJA - PROGRESS\v3\CNC_v3\CNC_v3\obj\Debug\CNC_v3.pdb
